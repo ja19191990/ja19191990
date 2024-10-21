@@ -21,4 +21,4 @@
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style-for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style-for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/juanluisalvaretana/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style-for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanluisalvaretana/)
