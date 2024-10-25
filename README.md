@@ -2,7 +2,7 @@
 
 ## About me 👋
 
-I'm Juan Alva, a science teacher passionate about data science. I'm looking to collaborate on challenging projects. 🚀
+I'm Juan Alva, a science graduate passionate about data science. I'm looking to collaborate on challenging projects. 🚀
 
 I have always enjoyed discovering the information hidden in data🔍. In addition, I am fascinated by predicting uncertain futures using machine learning, which allows me to deliver accurate and result-oriented solutions.
 
